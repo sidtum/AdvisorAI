@@ -40,10 +40,6 @@ This AI-powered academic advisor helps CSE students at Ohio State University wit
 - Non-major course requirements
 - Credit hour monitoring
 
-# OSU CSE AI Academic Advisor
-
-[Previous sections remain the same...]
-
 ## Technical Architecture
 
 ### Frontend
@@ -60,7 +56,6 @@ This AI-powered academic advisor helps CSE students at Ohio State University wit
 - Transcript processing system
 - Session management for conversation context
 
-Reference:
 
 ### RAG System & Vector Database
 - Implements Retrieval Augmented Generation for accurate course information
@@ -102,13 +97,11 @@ Reference:
 - Faster response times
 - Scalable architecture
 
-[Rest of the previous sections remain the same...]
-
 ## Setup and Installation
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/osu-cse-advisor.git
+git clone https://github.com/sidtum/HackAI-AdvisorAI.git
 ```
 
 
