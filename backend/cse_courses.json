@@ -1,0 +1,1433 @@
+[
+    {
+        "number": "CSE 1110",
+        "title": "Introduction to Computing Technology",
+        "description": "Description: A course of general interest giving experience with personal computer software, e.g., word processors and spreadsheets; provides fundamental computer literacy; neither teaches nor requires programming.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "Not open to students with credit for 1111 or 1113.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 1111",
+        "title": "Introduction to Computer-Assisted Problem Solving",
+        "description": "Description: Problem solving techniques using productivity software; spreadsheets, formulas, conditional logic; relational databases, relational algebra; word processing; data presentation; graphics.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "Not open to students with credit for 1112 (105), 1113 (101), or 200. GE quant reason math and logical anly course. GE foundation math and quant reasoning or data anyl course.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 1112",
+        "title": "Introduction to Computer-Assisted Problem Solving for Construction Systems Management",
+        "description": "Description: Using productivity software, especially spreadsheets and databases, to solve problems for construction management; relative/absolute cell referencing, logic, functions; relational databases, querying, project integration.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "Not open to students with credit for 1111 (101), 1113, 105, or 200.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 1113",
+        "title": "Spreadsheet Programming for Business",
+        "description": "Description: Spreadsheet modeling/programming concepts and techniques to solve business related problems; efficient/effective data handling, computational analysis and decision support.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "Math 1130 (130) or above. Not open to students with credit for 1111 (101), 1112 (105), 2111, or 200.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 1114",
+        "title": "Introduction to Databases Using MS Access",
+        "description": "Description: Database concepts and techniques for efficient/effective data handling, computational analysis and decision support.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.5",
+        "prerequisites": "Not open to students with credit for 1111, 1112, or 2111.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 1211",
+        "title": "Computational Thinking in Context: Images, Animation, and Games",
+        "description": "Description: Introduction to computational thinking, focusing on problem solving and programming concepts and skills needed to manipulate digital images and to create interactive graphics, animations, and games; creativity and imagination encouraged.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 1213",
+        "title": "Computational Thinking in Context: Game Development",
+        "description": "Description: Introduction to computational thinking, focusing on problem solving and programming concepts and skills needed to develop video games.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 4.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 1222",
+        "title": "Introduction to Computer Programming in C++ for Engineers and Scientists",
+        "description": "Description: Introduction to computer programming and to problem solving techniques using computer programs with applications in engineering and the physical sciences; algorithm development; programming lab experience.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "Math 1151, 1154, or 1161. Not open to students with credit for Engr 1281.01 or 1281.02. This course is available for EM credit."
+    },
+    {
+        "number": "CSE 1223",
+        "title": "Introduction to Computer Programming in Java",
+        "description": "Description: Introduction to computer programming and to problem solving techniques using computer programs; programming lab experience.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "Math 1120, 1130, 1140, 1148, 1149, 1150, or 1151, or Math Placement Level M. This course is available for EM credit.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 1224",
+        "title": "Introduction to Computer Programming in Python",
+        "description": "Description: Introduction to computer programming and to problem solving techniques using computer programs; programming lab experience.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "Math 1120, 1130, 1140, 1148, 1149, 1150, or 1151, or Math Placement Level M.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 2021",
+        "title": "Introduction to Modeling and Simulation",
+        "description": "Description: Concepts of modeling and simulation; develop MATLAB skills to explore modeling concepts; project: design, implementation, verification/validation of model; oral and written project report.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "Math 1151 (152) or equivalent, and Physics 1250 (131). Not open to students with credit for 1221 or Engr 1221.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 2111",
+        "title": "Modeling and Problem Solving with Spreadsheets and Databases",
+        "description": "Description: Spreadsheet and database modeling/programming concepts and techniques to solve business related problems; efficient/effective data handling, computational analysis and decision support. Additional topics: computer concepts, networking, project integration.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "Math 1130 or above, or Math Placement Level L. Not open to students with credit for 1111 or 1112. This course is available for EM credit. GE quant reason math and logical anly course. GE foundation math and quant reasoning or data anyl course.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 2112",
+        "title": "Modeling and Problem Solving with Spreadsheets and Databases for Engineers",
+        "description": "Description: Spreadsheet and database modeling/programming concepts and techniques to solve business and engineering related problems; efficient/effective data handling, computational analysis and decision support.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "1222, 1223, 1224, Engr 1281.01H, or 1281.02H. Prereq or concur: Math 1151, 1161.01, or 1161.02. Not open to students with credit for 1111, 1112, 1113, or 2111.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 2122",
+        "title": "Data Structures Using C++",
+        "description": "Description: Introduction to programming in C++ and object-oriented programming; encapsulation using classes, inheritance, etc.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "1222 (202). Not open to students with credit for 230.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 2123",
+        "title": "Data Structures Using Java",
+        "description": "Description: Subroutines and modular programming; searching; basic data structures; recursion; introduction to sequential files.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "1223.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 2133",
+        "title": "Business Programming with File Processing",
+        "description": "Description: Business data processing principles and programming: sequential file processing algorithms, sorting, data validation; COBOL is taught.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2123, and enrollment in Business Info Sys major or CIS minor.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 2193",
+        "title": "Individual Studies in Computer Science and Engineering",
+        "description": "Description: Planning, conducting, and reporting a special study appropriate to the needs of the students.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "Permission of instructor. Repeatable to a maximum of 10 cr hrs or 10 completions. This course is graded S/U.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 2221",
+        "title": "Software I: Software Components",
+        "description": "Description: Intellectual foundations of software engineering; design-by-contract principles; mathematical modeling of software functionality; component-based software from client perspective; layered data representation.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 4.0",
+        "prerequisites": "1212, 1221, 1222, 1223, 1224, Engr 1221, 1281.01H, 1281.02H, or CSE Placement Level A. Prereq or concur: Math 1151, 1161.01, or 1161.02. Not open to students with credit for 5022. This course is available for EM credit.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 2231",
+        "title": "Software II: Software Development and Design",
+        "description": "Description: Data representation using hashing, search trees, and linked data structures; algorithms for sorting; using trees for language processing; component interface design; best practices in Java.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 4.0",
+        "prerequisites": "2221. Concur: 2321. Not open to students with credit for 2231.01.",
+        "concurrent": "2321. Not open to students with credit for 2231.01."
+    },
+    {
+        "number": "CSE 2321",
+        "title": "Foundations I: Discrete Structures",
+        "description": "Description: Propositional and first-order logic; basic proof techniques; graphs, trees; analysis of algorithms; asymptotic analysis; recurrence relations.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2122, 2123, or 2221; and Math 1151, or 1161. Concur (for students with credit for 2221): 2231.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 2331",
+        "title": "Foundations II: Data Structures and Algorithms",
+        "description": "Description: Design/analysis of algorithms and data structures; divide-and-conquer; sorting and selection, search trees, hashing, graph algorithms, string matching; probabilistic analysis; randomized algorithms; NP-completeness.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2231, 2321, and Stat 3460 or 3470, and enrollment in CSE, CIS, ECE, Data Analytics, or Math major, or CIS minor. Concur: Math 3345. Not open to students with credit for 5331.",
+        "concurrent": "Math 3345. Not open to students with credit for 5331."
+    },
+    {
+        "number": "CSE 2371",
+        "title": "Quantum Circuits and Algorithms",
+        "description": "Description: Designed to provide students with a broad introduction to quantum computing, the future of computing. Using tools such as QBraid, students from diverse backgrounds will visualize quantum computing concepts and compare them with classical computing models. This will enable the comparison of quantum algorithms and their advantages over corresponding classical algorithms.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "Soph, Jr, or Sr standing.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 2421",
+        "title": "Systems I: Introduction to Low-Level Programming and Computer Organization",
+        "description": "Description: Introduction to computer architecture at machine and assembly language level; pointers and addressing; C programming at machine level; computer organization.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 4.0",
+        "prerequisites": "2122, 2123, or 2231; and 2321 or Math 2566; and enrollment in CSE, CIS, Data Analytics, Music (BS), Eng Physics, or Math major.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 2431",
+        "title": "Systems II: Introduction to Operating Systems",
+        "description": "Description: Introduction to operating system concepts: process, CPU scheduling, memory management, file system and storage, and multi-threaded programming.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2421, or 2451 and ECE 2560; and enrollment in CSE, CIS, Data Analytics, Engr Physics, or ECE major. Not open to students with credit for 5431.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 2451",
+        "title": "Advanced C Programming",
+        "description": "Description: Advanced C features for students with significant programming experience in another language.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "2221 or 222. Concur: 2231 or 321. Not open to students with credit for 2421.",
+        "concurrent": "2231 or 321. Not open to students with credit for 2421."
+    },
+    {
+        "number": "CSE 2501",
+        "title": "Social, Ethical, and Professional Issues in Computing",
+        "description": "Description: Social, ethical, and professional issues facing computing professionals; ethical principles; discussion of case studies.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "2122, 2123, or 2231; and GE writing and comm course: level 2, or GE foundation writing and info literacy course; and enrollment in CSE or CIS major, or Information Security minor, or Grad standing. Not open to students with credit for 5501.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 3231",
+        "title": "Software Engineering Techniques",
+        "description": "Description: Software engineering issues, techniques, methodologies and technologies; software lifecycle activities: requirements analysis, architecture, design, testing, deployment, maintenance; project management; enterprise software systems; frameworks.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3901 or 3902 or 3903. Not open to students with credit for 5231 (757).",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 3232",
+        "title": "Software Requirements Analysis",
+        "description": "Description: Information systems analysis; object-oriented analysis models and tools; use cases, system modeling using UML; requirements specification development; term project.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3241, 3901, 3902, 3903, or 5241; and enrollment in CIS, CSE, ECE, or Business Info Sys major. Not open to students with credit for 5232.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 3241",
+        "title": "Introduction to Database Systems",
+        "description": "Description: Database systems use, logical design, entity-relationship model, normalization, query languages and SQL, relational algebra and calculus, object relational databases, XML, active databases; database design project.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2123 or 2231; and 2321, or 2111 and Math 2366; and enrollment in CSE, CIS, ISE, Data Analytics, ECE, Engr Physics, or Business Info Sys majors, or CIS minor. Not open to students with credit for 5241.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 3244",
+        "title": "Data Management in the Cloud",
+        "description": "Description: Systematic organization of data on cloud computing architectures; basic indexing techniques, including B-tree and hash-based indexing; fundamentals of query optimization, including access path selection and cardinality estimation; full and partial replication; data partitioning and distributed task scheduling.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3241 or 5241; and 2421 or 3430; and enrollment in CSE, CIS, or Data Analytics major.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 3321",
+        "title": "Automata and Formal Languages",
+        "description": "Description: Machine-based and grammatical models of computation; finite automata and regular languages, pushdown automata and context-free languages, Turing machines; non-determinism; Church's Thesis.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2231, 2421, 2331, and Math 3345; and enrollment in CSE, CIS, ECE, or Math major. Not open to students with credit for 5321.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 3341",
+        "title": "Principles of Programming Languages",
+        "description": "Description: Formal languages and grammars; recursive descent parsing; data types, expressions, control structures, parameter passing; compilers and interpreters; memory management; functional programming principles.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2231, 2331 (680), and 2421, and 3901 (560), 3902, or 3903. Not open to students with credit for 5341 (655).",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 3421",
+        "title": "Introduction to Computer Architecture",
+        "description": "Description: Organization of hardware and software in modern computer systems, including instruction set design, processor control, ALU design, pipelining, multicores and accelerators, and memory subsystem design.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2231, and 2421 or ECE 2560, and 2060; and enrollment in CSE, CIS, or ECE majors. Not open to students with credit for 5421.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 3430",
+        "title": "Overview of Computer Systems For Non-Majors",
+        "description": "Description: Introduction to computer architecture and organization at machine and assembly level; pointers and addressing using C programming; introduction to operating system concepts: process, memory management, file system and storage, and multi-threaded programming.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 4.0",
+        "prerequisites": "2122, 2123, or 2231; and 2321; and enrollment in Data Analytics major or CIS minor. Not open to students with credit for 2421 or 2431. Not open to CSE/CIS majors.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 3461",
+        "title": "Computer Networking and Internet Technologies",
+        "description": "Description: Computer networks, communication protocols, Internet TCP/IP and applications, wireless communications and network security.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2421; or 3430; or 2451 and ECE 2560; and enrollment in CIS, CSE, ECE, Engr Physics, or Data Analytics major. Prereq or concur: 2431 or 3430. Not open to students with credit for 5461.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 3521",
+        "title": "Survey of Artificial Intelligence I: Basic Techniques",
+        "description": "Description: Survey of basic concepts and techniques in artificial intelligence, including problem solving, knowledge representation, and machine learning.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2331 or 5331; and Math 2174 or 2568 or 4568 or 5520H; and Stat 3201 or 3450 or 3460 or 3470 or 4201 or Math 4530 or 5530H; and enrollment in CSE, CIS, ECE or Data Analytics major. Not open to students with credit for 5521.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 3541",
+        "title": "Computer Game and Animation Techniques",
+        "description": "Description: Fundamental algorithms and mathematics in production of computer animation and video games, emphasizing control and rendering of animated characters.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3901, 3902, or 3903; and enrollment in CSE, CIS, Music (BS), or ECE major. Not open to students with credit for 5541.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 3901",
+        "title": "Project: Design, Development, and Documentation of Web Applications",
+        "description": "Description: Intensive group project involving design, development, and documentation of a web application; client-side and server-side scripting; communication skills emphasized; builds programming maturity.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 4.0",
+        "prerequisites": "2231; and 2321; and 2421 or 3430, or 2451 and ECE 2560; and enrollment in CSE, CIS, ECE, or Data Analytics major.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 3902",
+        "title": "Project: Design, Development, and Documentation of Interactive Systems",
+        "description": "Description: Intensive group project involving design, development, and documentation of an interactive software system, a 2D interactive game; communication skills emphasized; builds programming maturity.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 4.0",
+        "prerequisites": "2231; and 2321; and 2421 or 3430, or 2451 and ECE 2560; and enrollment in CSE, CIS, ECE, Music (BS), or Data Analytics major.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 3903",
+        "title": "Project: Design, Development, and Documentation of System Software",
+        "description": "Description: Intensive group project involving design, development, and documentation of system software including an assembler and a linking loader; communication skills emphasized; builds programming maturity.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 4.0",
+        "prerequisites": "2231; and 2321; and 2421 or 3430, or 2451 and ECE 2560; and enrollment in CSE, CIS, ECE, or Data Analytics major.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 4191",
+        "title": "Professional Practice in Industry",
+        "description": "Description: Preparation and submission of a comprehensive report based on actual employment experience in a co-op job in industry.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 0.0",
+        "prerequisites": "Permission of the CSE Advising Office. Repeatable to a maximum of 8 completions. This course is progress graded (S/U).",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 4193",
+        "title": "Individual Studies in Computer Science and Engineering",
+        "description": "Description: Designed to give the student an opportunity to pursue special studies not otherwise offered.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "Permission of instructor. Repeatable to a maximum of 10 cr hrs or 10 completions. This course is graded S/U.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 4251",
+        "title": "The UNIX Programming Environment",
+        "description": "Description: Introduction to the UNIX programming environment including: shell programming (csh); regular expressions; makefiles; grep, sed, and awk programming languages.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "2122, 2123, or 2231; and 2321; and enrollment in CSE, CIS, ECE, Engr Physics, or Data Analytics major, or CIS minor. This course is graded S/U.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 4252",
+        "title": "Programming in C++",
+        "description": "Description: Syntax and pragmatics of C++ programming; C++ types, arrays, classes, pointers; objects and classes; compile-time vs. run-time picture; inheritance; template classes.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "2123 or 2231; and 2321; and enrollment in CSE, CIS, ECE, Engr Physics, or Data Analytics major, or CIS minor. Not open to students with credit for 2122. This course is graded S/U.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 4253",
+        "title": "Programming in C#",
+        "description": "Description: C# programming for students well-versed in programming with another object-oriented language.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "2122, 2123, or 2231; and 2321; and enrollment in CSE, CIS, ECE, Engr Physics, or Data Analytics major, or CIS minor. This course is graded S/U.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 4254",
+        "title": "Programming in Lisp",
+        "description": "Description: Lisp programming for students well-versed in programming with another language.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "2122, 2123, or 2231; and 2321; and enrollment in CSE, CIS, ECE, Engr Physics, or Data Analytics major, or CIS minor. This course is graded S/U.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 4256",
+        "title": "Programming in Python",
+        "description": "Description: Python programming for students well-versed in programming with another imperative language.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "2122, 2123, or 2231; and 2321; and enrollment in CSE, CIS, ECE, Engr Physics, or Data Analytics major, or CIS minor. This course is graded S/U.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 4471",
+        "title": "Information Security",
+        "description": "Description: Introduction to security of digital information; threats and attacks; regulations; risk management; attack detection and response; cryptography; forensics; technical training and certifications.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2231 and 2321; and enrollment in CSE, CIS, ECE, or Data Analytics major, or Information Security or CIS minor.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 4998",
+        "title": "Undergraduate Research in Computer Science and Engineering",
+        "description": "Description: Opportunity for undergraduate student to conduct research in Computer Science and Engineering.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "Permission of instructor. Repeatable to a maximum of 10 cr hrs or 10 completions. This course is graded S/U.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 4998H",
+        "title": "Undergraduate Research in Computer Science and Engineering",
+        "description": "Description: Opportunity for undergraduate student to conduct research in Computer Science and Engineering.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "Honors standing, and permission of instructor. Repeatable to a maximum of 10 cr hrs or 10 completions. This course is graded S/U.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 4999",
+        "title": "Computer Science and Engineering Research for Thesis",
+        "description": "Description: Supervised research and project work arranged individually.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "Permission of instructor. Repeatable to a maximum of 10 cr hrs or 10 completions. This course is graded S/U.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 4999H",
+        "title": "Computer Science and Engineering Research for Thesis",
+        "description": "Description: Supervised research and project work arranged individually for honors students.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "Honors standing, and permission of instructor. Repeatable to a maximum of 10 cr hrs or 10 completions. This course is graded S/U.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5022",
+        "title": "Software I: Software Components",
+        "description": "Description: Intellectual foundations of software engineering; design-by-contract principles; mathematical modeling of software functionality; component-based software from client perspective; layered data representation. Previous programming experience in any language required.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "At least one term of Calculus. Not open to students with credit for 2221, 2231, 4221, 321, or 502. Not open to students enrolled in a CSE or CIS major.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5023",
+        "title": "Software II: Software Development and Design",
+        "description": "Description: Data representation using hashing, search trees, and linked data structures; algorithms for sorting; using trees for language processing; component interface design; best practices in Java.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2221 or 5022. Not open to students with credit for 2231, 2231.01, 321, or 421.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5032",
+        "title": "Foundations I: Discrete Structures",
+        "description": "Description: Propositional and first-order logic; basic proof techniques; graphs, trees; analysis of algorithms; asymptotic analysis; recurrence relations.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "5022 or equiv. Not open to students with credit for 2321, 625, or 680.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5042",
+        "title": "Systems I: Introduction to Low-Level Programming and Computer Organization",
+        "description": "Description: Introduction to computer architecture at machine and assembly language level; pointers and addressing; C programming at machine level; computer organization.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2122, 2123, or 2231; and 2321 or Math 2566; or Grad standing. Not open to students with credit for 2421.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5043",
+        "title": "Overview of Computer Systems For Non-Majors",
+        "description": "Description: Introduction to computer architecture and organization at machine and assembly level; pointers and addressing using C programming; introduction to operating system concepts: process, memory management, file system and storage, and multi-threaded programming.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "5022 or equiv, and 5032 or equiv. Not open to students with credit for 2421, 5042, 2431, 3430, 360, or 660. Not open to CSE/CIS majors.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5052",
+        "title": "Survey of Artificial Intelligence for Non-Majors",
+        "description": "Description: Survey of the basic concepts and techniques in artificial intelligence, including problem solving, knowledge representation, and machine learning.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "1211, 1221, 1222, 1223, or 2221, or Grad standing. Not open to students with credit for 3521 (630), 4521, or 5521, or students enrolled in a CSE or CIS major.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5194.01",
+        "title": "Group Studies in Computer Science and Engineering",
+        "description": "Description: Designed to give the student an opportunity to pursue special studies not otherwise offered.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "Permission of instructor. Repeatable to a maximum of 10 cr hrs or 10 completions.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5231",
+        "title": "Software Engineering Techniques",
+        "description": "Description: Software engineering issues, techniques, methodologies and technologies; software lifecycle activities: requirements analysis, architecture, design, testing, deployment, maintenance; project management; enterprise software systems; frameworks.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "3901 or 3902 or 3903 (560). Not open to students with credit for 3231 (757).",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5232",
+        "title": "Software Requirements Analysis",
+        "description": "Description: Information systems analysis; object-oriented analysis models and tools; use cases, system modeling using UML; requirements specification development; term project.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "3241 or 3901 or 3902 or 3903 (560) or 5241 (670). Not open to students with credit for 3232 (616).",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5234",
+        "title": "Distributed Enterprise Computing",
+        "description": "Description: Current application and middleware frameworks for distributed enterprise computing; XML; Enterprise Java; SOAP and REST web services; AJAX and JSON; enterprise service bus; Hadoop; mobile computing.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2431 or 5431 (660). Not open to students with credit for 769.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5235",
+        "title": "Applied Enterprise Architectures and Services",
+        "description": "Description: Modeling/analysis of complex enterprise architectures; enterprise patterns (workflow, broker, warehousing); methods for service performance (lean, ontologies, data mining, etc.); emerging topics in semantic cyber-infrastructures, social computation.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "5911 (758 and 762), 5912 (786), 5913 (682), 5914 (731), 5915 (772), or 778.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5236",
+        "title": "Mobile Application Development",
+        "description": "Description: Mobile application development frameworks; Architecture, design and engineering issues, techniques, methodologies for mobile application development.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3901 or 3902 or 3903 (560).",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5239",
+        "title": "Intermediate Studies in Software Engineering",
+        "description": "Description: Intermediate-level topics in software engineering.\nRepeatable to a maximum of 12 cr hrs or 6 completions.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5241",
+        "title": "Introduction to Database Systems",
+        "description": "Description: Database systems use; logical design; entity-relationship model; normalization; query languages and SQL; relational algebra and calculus; object relational databases; XML; active databases; database design project.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "2133 or 2231 or 2233 (314) or 321, and 2321 or Math 2366 (366). Not open to students with credit for 3241 (670).",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5242",
+        "title": "Advanced Database Management Systems",
+        "description": "Description: Transaction management; query processing and optimization; organization of database systems, advanced indexing, multi-dimensional data, similarity-based analysis, performance evaluation, new database applications.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3241 or 5241, and 2421 or 5042.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5243",
+        "title": "Introduction to Data Mining",
+        "description": "Description: Knowledge discovery, data mining, data preprocessing, data transformations; clustering, classification, frequent pattern mining, anomaly detection, graph and network analysis; applications.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3241 or 5241; and 2331, 5331, Stat 3301, or ISE 3200; and enrollment in CSE, CIS, ECE, Data Analytics, or ISE major.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5245",
+        "title": "Introduction to Network Science",
+        "description": "Description: Introduction to Network Science; Global and Local Network Measures; PageRank; Community Discovery Algorithms; Network Models; Understanding the role of network analysis in Web and Social network applications.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2331.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5249",
+        "title": "Intermediate Studies in Databases",
+        "description": "Description: Intermediate-level topics in databases.\nRepeatable to a maximum of 12 cr hrs or 6 completions.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5321",
+        "title": "Automata and Formal Languages",
+        "description": "Description: Machine-based and grammatical models of computation; finite automata and regular languages, pushdown automata and context-free languages, Turing machines; non-determinism; Church's Thesis; halting problem.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "2231 or 321, and 2421 or 360, and 2331 or Math 566. Not open to students with credit for 3321 (625).",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5329",
+        "title": "Intermediate Studies in Computation Theory",
+        "description": "Description: Intermediate-level topics in computation theory.\nRepeatable to a maximum of 12 cr hrs or 6 completions.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5331",
+        "title": "Foundations II: Data Structures and Algorithms",
+        "description": "Description: Design/analysis of algorithms and data structures; divide-and-conquer; sorting and selection, search trees, hashing, graph algorithms, string matching; probabilistic analysis; randomized algorithms; NP-completeness.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "2231 or 321, and 2321 or Math 366, and 2566 (566), and Stat 3470 (427). Not open to students with credit for 2331 (680).",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5339",
+        "title": "Intermediate Studies in Algorithms",
+        "description": "Description: Intermediate-level topics in algorithms.\nRepeatable to a maximum of 12 cr hrs or 6 completions.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5341",
+        "title": "Principles of Programming Languages",
+        "description": "Description: Formal languages and grammars; recursive descent parsing; data types, expressions, control structures, parameter passing; compilers and interpreters; memory management; functional programming principles.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "2231, 2331 (680) and 2421, and 3901 (560), 3902, or 3903. Not open to students with credit for 3341 (655).",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5343",
+        "title": "Compiler Design and Implementation",
+        "description": "Description: Lexical and syntax analysis using compiler generation tools; type checking; intermediate code; control-flow analysis; dataflow analysis; code optimizations; code generation; compiler project.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3901 (560), 3902, or 3903, and 3341 (655). Not open to students with credit for 756.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5349",
+        "title": "Intermediate Studies in Programming Languages",
+        "description": "Description: Intermediate-level topics in programming languages.\nRepeatable to a maximum of 12 cr hrs or 6 completions.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5351",
+        "title": "Introduction to Cryptography",
+        "description": "Description: Foundations of cryptography; mathematical formulations/proofs of security goals; theory and practical constructions of encryption schemes, MACs, digital signatures; zero-knowledge proof systems; cryptographic protocols.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2331 (680), 5331, Math 4573 (573), or 4580 (580), and Stat 3460 (427) or 3470. Not open to students with credit for 723 or 794Q.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5359",
+        "title": "Intermediate Studies in Cryptography",
+        "description": "Description: Intermediate-level topics in cryptography.\nRepeatable to a maximum of 12 cr hrs or 6 completions.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5361",
+        "title": "Numerical Methods",
+        "description": "Description: Numerical methods for scientific computation: computer arithmetic, rounding errors, machine precision, machine representation, root-finding, interpolation, integration, linear systems, splines, smoothing, curve-fitting, linear programming.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2231, and Math 2568 (268) or 571, and 1151 (151). Not open to students with credit for 541.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5421",
+        "title": "Introduction to Computer Architecture",
+        "description": "Description: Organization of hardware and software in modern computer systems, including instruction set design, processor control, ALU design, pipelining, multicores and accelerators, and memory subsystem design.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "2231, and 2421 or ECE 2560, and enrollment in CSE, CIS, or ECE majors; or Grad standing. Not open to students with credit for 3421.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5429",
+        "title": "Intermediate Studies in Computer Architecture",
+        "description": "Description: Intermediate-level topics in computer architecture.\nRepeatable to a maximum of 12 cr hrs or 6 completions.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5431",
+        "title": "Systems II: Introduction to Operating Systems",
+        "description": "Description: Introduction to operating system concepts: process, CPU scheduling, memory management, file system and storage, and multi-threaded programming.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "5042 or equiv. Not open to students with credit for 2431 or 660.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5432",
+        "title": "Mobile Handset Systems and Networking",
+        "description": "Description: Mobile handset architecture: processors, memory, I/O devices, sensors, virtual machine and power management; different ranges of wireless communication technologies; TCP/IP over wireless; mobile social networking.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2421, 3430, or 2451 and ECE 2560; or Grad standing.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5433",
+        "title": "Operating Systems Laboratory",
+        "description": "Description: Introduction to the internals of operating systems; designing and implementing components within commercial operating systems: system calls, CPU scheduling, context switching, process management, memory management, file systems.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2431 or 5431. Not open to students with credit for 662.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5434",
+        "title": "Comparative Operating Systems",
+        "description": "Description: A careful examination of a number of representative computer operating systems.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2431 (660) or 5431. Not open to students with credit for 741.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5439",
+        "title": "Intermediate Studies in Operating Systems",
+        "description": "Description: Intermediate-level topics in operating systems.\nRepeatable to a maximum of 12 cr hrs or 6 completions.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5441",
+        "title": "Introduction to Parallel Computing",
+        "description": "Description: Parallel programming models; sequential and parallel performance issues; high-performance computer architecture; design, analysis, implementation and performance evaluation of parallel algorithms.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2231, 2321, and 2421; or 2231, 2321, and 3430; or 2231, 2321, 2451, and ECE 2560; or Grad standing.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5442",
+        "title": "High-Performance Deep/Machine Learning",
+        "description": "Description: This course combines high performance computing (HPC) and artificial intelligence (AI). This emerging trend combines the principles and practices of distributed training, which is critical for the success of both deep learning and machine learning disciplines.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2431, or 3430; and 3521, or 5521; or Grad standing.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5449",
+        "title": "Intermediate Studies in Parallel Computing",
+        "description": "Description: Intermediate-level topics in parallel computing.\nRepeatable to a maximum of 12 cr hrs or 6 completions.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5461",
+        "title": "Computer Networking and Internet Technologies",
+        "description": "Description: Computer networks, communication protocols, Internet TCP/IP and applications, wireless communications and network security.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "2451, and 2421 or ECE 2560 (265). Concur: 2431. Not open to students with credit for 3461 (677).",
+        "concurrent": "2431. Not open to students with credit for 3461 (677)."
+    },
+    {
+        "number": "CSE 5462",
+        "title": "Network Programming",
+        "description": "Description: IP-based socket programming in C/C++, TinyOS programming in NesC.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3461, 5461, or ECE 3561.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5463",
+        "title": "Introduction to Wireless Networking",
+        "description": "Description: Fundamental concepts in cellular design, Wireless-LANs, MANETs, and sensor networks will be explored. Specific topics will include propagation, fading, cellular-design, power-management, routing, scheduling, and control.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3461, 5461, or ECE 3561; or Grad standing in Engineering or Math and Physical Sciences. Cross-listed in ECE 5101.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5469",
+        "title": "Intermediate Studies in Computer Networking",
+        "description": "Description: Intermediate-level topics in computer networking.\nRepeatable to a maximum of 12 cr hrs or 6 completions.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5471",
+        "title": "Introduction to Cybersecurity",
+        "description": "Description: Introduction to cybersecurity. Technical fundamentals of data, software, component, network, and system security. Cybersecurity from an organizational and societal view point, including human factors.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "Jr, Sr, or Grad standing, or permission of instructor. Not open to students with credit for ECE 5561. Cross-listed in ECE 5561.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5472",
+        "title": "Information Security Projects",
+        "description": "Description: Team-based projects: solve information security problems (mobile/static host/network hardening, intrusion detection and vulnerability scanning, forensics); results communicated through report writing and presentation.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3901, 3902, or 3903, and 3461, 5461, or 4471; or Grad standing.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5473",
+        "title": "Network Security",
+        "description": "Description: Security threats and services, elements of cryptography, protocols for security services, network and internet security, advanced security issues and technologies.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3461 (677) or 5461. Not open to students with credit for 651.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5474",
+        "title": "Software Security",
+        "description": "Description: Software security fundamentals, secure coding principles and practices, common software vulnerabilities, memory exploits (shell code), vulnerability analysis (e.g., reverse engineering, fuzzing and symbolic execution), and defenses against common vulnerability exploitation.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2431, or Grad standing.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5477.01",
+        "title": "Offensive Security",
+        "description": "Description: This course will give students an overview of existing offensive computing techniques, which include well known attacks that break confidentiality, integrity and availability of computing resources. Attacks targeting on human weaknesses without taking special care to security will also be discussed.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2431, 5431, or Grad standing. Not open to students with credit for ECE 5567.01. Cross-listed in ECE 5567.01.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5477.02",
+        "title": "Reverse Engineering and Malware Analysis",
+        "description": "Description: This course will give students an overview of cutting edge reverse engineering techniques as well as software security and defense practices. Programming experience in C required.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2431, 5431, or Grad standing. Prereq or concur: 5471 or ECE 5561. Not open to students with credit for ECE 5567.02. Cross-listed in ECE 5567.02.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5479",
+        "title": "Intermediate Studies in Computer Security",
+        "description": "Description: Intermediate-level topics in computer security.\nRepeatable to a maximum of 12 cr hrs or 6 completions.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5501",
+        "title": "Social, Ethical, and Professional Issues in Computing",
+        "description": "Description: Social, ethical, and professional issues facing computing professionals; ethical principles; discussion of case studies.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "2122, 2123, or 2231; and GE writing and comm course: level 2, or GE foundation writing and info literacy course; and enrollment in CSE or CIS major, or Information Security minor; or Grad standing. Not open to students with credit for 2501.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5521",
+        "title": "Survey of Artificial Intelligence I: Basic Techniques",
+        "description": "Description: Survey of the basic concepts and techniques in artificial Intelligence, including problem solving, knowledge representation, and machine learning.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "2331 or 5331, or Grad standing. Not open to students with credit for 3521.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5522",
+        "title": "Survey of Artificial Intelligence II: Advanced Techniques",
+        "description": "Description: Survey of advanced concepts, techniques, and applications of artificial intelligence, including knowledge representation, learning, natural language understanding, and vision.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3521 or 5521, and enrollment in CSE, CIS, ECE, or Data Analytics major; or Grad standing.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5523",
+        "title": "Machine Learning and Statistical Pattern Recognition",
+        "description": "Description: Introduction to basic concepts of machine learning and statistical pattern recognition; techniques for classification, clustering and data representation and their theoretical analysis.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3521, 5521, or 5243; and 5522, Stat 3460, or 3470; and Math 2568, 2174, 4568, or 5520H; or Grad standing.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5524",
+        "title": "Computer Vision for Human-Computer Interaction",
+        "description": "Description: Computer vision algorithms for use in human-computer interactive systems; image formation, image features, segmentation, shape analysis, object tracking, motion calculation, and applications.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2331, or Sr or Grad standing. Not open to students with credit for 634.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5525",
+        "title": "Foundations of Speech and Language Processing",
+        "description": "Description: Fundamentals of natural language processing, automatic speech recognition and speech synthesis; lab projects concentrating on building systems to process written and/or spoken language.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3521 or 5521, and 5522, Stat 3460, or 3470. Not open to students with credit for 733.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5526",
+        "title": "Introduction to Neural Networks",
+        "description": "Description: Survey of fundamental methods and techniques of neural networks; single- and multi-layer perceptrons; radial-basis function networks; support vector machines; recurrent networks; supervised and unsupervised learning.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3521 or 5521. Not open to students with credit for 779.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5531",
+        "title": "Introduction to Cognitive Science",
+        "description": "Description: Interdisciplinary survey of the fields of artificial intelligence, linguistics, neuroscience, philosophy of mind, and psychology; various aspects of cognitive perception, representation, and computation.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "At least 12 cr hrs in at least two of these four subjects (only 6 cr hrs from any one subject): CSE, Ling, Philos, Psych. Not open to students with credit for 612, Linguist 612, Philos 612, or Psych 612. Cross-listed in Ling, Philos, or Psych.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5539",
+        "title": "Intermediate Studies in Artificial Intelligence",
+        "description": "Description: Intermediate-level topics in artificial intelligence.\nRepeatable to a maximum of 12 cr hrs or 6 completions.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5541",
+        "title": "Computer Game and Animation Techniques",
+        "description": "Description: Fundamental algorithms and mathematics in the production of computer animation and video games, emphasizing the control and rendering of animated characters.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "3901 or 3902 or 3903 (560). Not open to students with credit for 3541 (683).",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5542",
+        "title": "Real-Time Rendering",
+        "description": "Description: Comprehensive list of topics in real-time rendering using OpenGL and GLSL, including coordinate systems, transformations, viewing, illumination, texture mapping, and shader-based algorithms.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3901 (560) or 3902 or 3903, and Math 2568 (568) or 571. Not open to students with credit for 781.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5543",
+        "title": "Geometric Modeling",
+        "description": "Description: Common algorithmic and mathematical techniques for modeling geometric objects in computer graphics and CAD applications; sample based modeling, mesh generation, and hierarchical representations.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "Math 2568 (568) or 571. Not open to students with credit for 784.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5544",
+        "title": "Introduction to Data Visualization",
+        "description": "Description: Principles and methods for visualizing data from measurements and calculations in physical and life sciences, and transactional and social disciplines; information visualization; scientific visualization.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "5361, Stat 3301, 3541, or 5541. Not open to students with credit for 694L.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5545",
+        "title": "Advanced Computer Graphics",
+        "description": "Description: Advanced topics in computer graphics; image synthesis, lighting and rendering, sampling and material properties, volume rendering.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3541 or 5541.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5546",
+        "title": "Virtual Reality",
+        "description": "Description: Principles and methods for the design, development, and evaluation of three-dimensional interfaces in virtual environments and their applications in data science, medicine, and engineering.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3541, 5541, 5542, or 5544, or permission of instructor.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5559",
+        "title": "Intermediate Studies in Computer Graphics",
+        "description": "Description: Intermediate-level topics in computer graphics.\nRepeatable to a maximum of 12 cr hrs or 6 completions.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5821",
+        "title": "Legal Topics for Computer Engineers",
+        "description": "Description: This course introduces students to areas of law that govern computer engineering and design. The goals of the course include mastery of a set of legal doctrines, as well as immersion in the legal method used by lawyers to analyze problems and by judges to decide cases. Students can expect to learn how to evaluate computer engineering methods and projects through the lens of legal analysis.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "Philos 1338 or CSE 2501, and 3901 or 3902 or 3903; or Grad standing; or permission of instructor.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5889",
+        "title": "Intermediate Studies in Multidisciplinary Computing",
+        "description": "Description: Intermediate-level topics in multidisciplinary computing techniques\nRepeatable to a maximum of 8 cr hrs or 4 completions.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5891",
+        "title": "Proseminar in Cognitive Science",
+        "description": "Description: Provides an in-depth examination of cognitive science from an interdisciplinary perspective.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 2.0",
+        "prerequisites": "Permission of instructor. Repeatable to a maximum of 4 cr hrs. Cross-listed in Ling, Philos, Psych, and SphHrng.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5911",
+        "title": "Capstone Design: Software Applications",
+        "description": "Description: Capstone design project: application of software engineering techniques, methodologies and technologies in software lifecycle activities using enterprise software frameworks; teamwork, written and oral communication.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 4.0",
+        "prerequisites": "3231, or 5231; and 2501, or Philos 1338, or 2338; and CSE 3901, 3902, or 3903; and GE writing and comm course: level 2, or GE foundation writing and info literacy course; or Grad standing.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5912",
+        "title": "Capstone Design: Game Design and Development",
+        "description": "Description: Capstone design project; conceptual and technical design and implementation of interactive game, integrating custom code and toolkits; teamwork, written and oral communication skills.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 4.0",
+        "prerequisites": "3541, or 5541; and 2501, or Philos 1338, or 2338; and CSE 3901, or 3902, or 3903; and GE writing and comm course: level 2, or GE foundation writing and info literacy course; or Grad standing.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5913",
+        "title": "Capstone Design: Computer Animation",
+        "description": "Description: Capstone design project: conceptual and technical design and implementation of computer animation incorporating animation elements; teamwork, written and oral communication skills.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 4.0",
+        "prerequisites": "3541, or 5541; and 2501, or Philos 1338, or 2338; and CSE 3901, or 3902, or 3903; and GE writing and comm course: level 2; or GE foundation writing and info literacy course; or Grad standing.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5914",
+        "title": "Capstone Design: Knowledge-Based Systems",
+        "description": "Description: Capstone design project; conceptual and technical design; theory and practice of knowledge-based systems; teamwork, written and oral communication skills.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 4.0",
+        "prerequisites": "3521, or 5521; and 2501, or Philos 1338, or 2338; and CSE 3901, or 3902, or 3903; and GE writing and comm course: level 2, or GE foundation writing and info literacy course; or Grad standing.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5915",
+        "title": "Capstone Design: Information Systems",
+        "description": "Description: Capstone design project; information system principles: database design methods and tools, indexing, searching, application development, testing, evaluation; teamwork, written and oral communication skills.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 4.0",
+        "prerequisites": "3241, or 5241; and 2501, or Philos 1338, or 2338; and CSE 3901, or 3902, or 3903; and GE writing and comm course: level 2, or GE foundation writing and info literacy course; or Grad standing.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 5916",
+        "title": "Capstone Design: Research-Focused Projects",
+        "description": "Description: Capstone design project; convergent and scalable research formulation and development, computational solutions to open-ended research problems, teamwork, written and oral communication skills.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 4.0",
+        "prerequisites": "2501, or Philos 1338, or 2338; and CSE 3901, or 3902, or 3903; and GE writing and comm course: level 2, or GE foundation writing and info literacy course; or Grad standing.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6011",
+        "title": "Computational Thinking in Context",
+        "description": "Description: Introduction to computational thinking, focusing on problem solving and programming concepts such as abstraction; Use of computing to discover new insights from data; How computers and the internet work; Societal impacts of computing innovations.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "Permission of instructor.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6012",
+        "title": "Introduction to Computer Programming in Java",
+        "description": "Description: Introduction to computer programming and to problem solving techniques using computer programs; programming lab experience.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "Permission of instructor.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6193",
+        "title": "Individual Studies in Computer Science and Engineering",
+        "description": "Description: Designed to give the student an opportunity to pursue special studies not otherwise offered.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "Permission of instructor. Repeatable to a maximum of 10 cr hrs or 10 completions. This course is graded S/U.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6239",
+        "title": "Advanced Studies in Software Engineering",
+        "description": "Description: Advanced-level topics in software engineering.\nRepeatable to a maximum of 24 cr hrs or 8 completions. This course is graded S/U.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6249",
+        "title": "Advanced Studies in Databases",
+        "description": "Description: Advanced-level topics in databases.\nRepeatable to a maximum of 24 cr hrs or 8 completions. This course is graded S/U.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6321",
+        "title": "Computability and Complexity",
+        "description": "Description: Turing machines, decidability, recursive enumerability; many-to-one and polynomial-time reductions; NP-completeness, Cook-Levin Theorem; Recursion Theorem.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3321 (625) or 5321. Not open to students with credit for 725.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6329",
+        "title": "Advanced Studies in Computation Theory",
+        "description": "Description: Advanced-level topics in computation theory.\nRepeatable to a maximum of 24 cr hrs or 8 completions. This course is graded S/U.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6331",
+        "title": "Algorithms",
+        "description": "Description: Algorithm design paradigms; mathematical analysis of algorithms.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2331 (680) or 5331. Not open to students with credit for 780.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6332",
+        "title": "Advanced Algorithms",
+        "description": "Description: Advanced graph algorithms, string algorithms, linear programming, matrix operations, Fourier transforms, randomized algorithms, approximation algorithms, geometric algorithms.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "6331 (780). Not open to students with credit for 790 or 794A.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6333",
+        "title": "Distributed Algorithms",
+        "description": "Description: Fundamental concepts in distributed computing; algorithms for distributed control and data; impossibility and limits; algorithms for fault-tolerance; specification, design and verification of distributed programs.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "6431 (760). Not open to students with credit for 763.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6339",
+        "title": "Advanced Studies in Algorithms",
+        "description": "Description: Advanced-level topics in algorithms.\nRepeatable to a maximum of 24 cr hrs or 8 completions. This course is graded S/U.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6341",
+        "title": "Foundations of Programming Languages",
+        "description": "Description: Conceptual foundations of programming languages: attribute grammars; types; functional languages; language semantics; abstract interpretation.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3341 (655) or 5341. Not open to students with credit for 755.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6349",
+        "title": "Advanced Studies in Programming Languages",
+        "description": "Description: Advanced-level topics in programming languages.\nRepeatable to a maximum of 24 cr hrs or 8 completions. This course is graded S/U.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6359",
+        "title": "Advanced Studies in Cryptography",
+        "description": "Description: Advanced-level topics in cryptography.\nRepeatable to a maximum of 24 cr hrs or 8 completions. This course is graded S/U.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6421",
+        "title": "Computer Architecture",
+        "description": "Description: Principles and tradeoffs behind the design of modern computer architectures, including instruction-level parallelism, memory system design, advanced cache architectures, cache coherence, multiprocessors, energy-efficient and embedded architectures.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "3431 (660) or 5431, and 3421 (675), 5421, or ECE 5362 (662). Not open to students with credit for 775.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6422",
+        "title": "Advanced Computer Architecture",
+        "description": "Description: Fundamental design issues in parallel architectures, design of scalable shared memory and distributed memory systems, interconnection networks (on-chip and off-chip), multi-core architectures, accelerators, embedded systems, and exascale systems.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "6421 (775) and 6441 (721). Not open to students with credit for 875.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6429",
+        "title": "Advanced Studies in Computer Architecture",
+        "description": "Description: Advanced-level topics in computer architecture.\nRepeatable to a maximum of 24 cr hrs or 8 completions. This course is graded S/U.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6431",
+        "title": "Advanced Operating Systems",
+        "description": "Description: Advanced topics in operating systems and concurrency; introduction to distributed systems.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "2431 (660) or 5431. Not open to students with credit for 760.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6439",
+        "title": "Advanced Studies in Operating Systems",
+        "description": "Description: Advanced-level topics in operating systems.\nRepeatable to a maximum of 24 cr hrs or 8 completions. This course is graded S/U.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6441",
+        "title": "Parallel Computing",
+        "description": "Description: Principles and practice of parallel computing; design, implementation, and performance evaluation of parallel programs for shared-memory, distributed-memory and heterogeneous parallel systems.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "5441 (621). Not open to students with credit for 721.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6449",
+        "title": "Advanced Studies in Parallel Computing",
+        "description": "Description: Advanced-level topics in parallel computing.\nRepeatable to a maximum of 24 cr hrs or 8 completions. This course is graded S/U.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6461",
+        "title": "Computer Communication Networks",
+        "description": "Description: Foundational understanding of network analysis, error-control, routing, congestion-control, multi-access,and their examples in the context of the existing communication networks. A previous course in statistics is recommended for students taking this course.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "Grad standing in Engr. Not open to students with credit for ECE 6101. Cross-listed in ECE 6101.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6469",
+        "title": "Advanced Studies in Computer Networking",
+        "description": "Description: Advanced-level topics in computer networking.\nRepeatable to a maximum of 24 cr hrs or 8 completions. This course is graded S/U.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6479",
+        "title": "Advanced Studies in Computer Security",
+        "description": "Description: Advanced-level topics in computer security.\nRepeatable to a maximum of 24 cr hrs or 8 completions. This course is graded S/U.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6520",
+        "title": "Foundations of Applied Artificial Intelligence for Non-Majors",
+        "description": "Description: Introduction to computer programming, to problem solving techniques using computer programs, and to the mathematical foundations of Artificial Intelligence. Specifically geared towards graduate students from non-Computer Science backgrounds with examples drawn from Artificial Intelligence.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "Not open to students enrolled in CSE major.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6521",
+        "title": "Artificial Intelligence",
+        "description": "Description: Survey of advanced concepts, techniques, and applications of artificial intelligence, including knowledge representation, learning, natural language understanding, and vision.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 3.0",
+        "prerequisites": "4256 or equiv., Math 4568 or equiv., and Stat 3470 or equiv. Not open to students with credit for 5521 or 5522.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6539",
+        "title": "Advanced Studies in Artificial Intelligence",
+        "description": "Description: Advanced-level topics in artificial intelligence.\nRepeatable to a maximum of 24 cr hrs or 8 completions. This course is graded S/U.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6559",
+        "title": "Advanced Studies in Computer Graphics",
+        "description": "Description: Advanced-level topics in computer graphics.\nRepeatable to a maximum of 24 cr hrs or 8 completions. This course is graded S/U.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6891",
+        "title": "Departmental Research Seminar",
+        "description": "Description: This course consists of lectures and classroom activities on frontier research by faculty members in the Department. The objectives include introducing the students to the research areas being conducted by the graduate faculty in the Department; and encouraging students to become actively involved in one of the research areas.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "Grad standing in CSE, or permission of instructor. This course is graded S/U.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6998",
+        "title": "MS Research in Computer Science and Engineering",
+        "description": "Description: MS research in Computer Science and Engineering.\nRepeatable to a maximum of 10 completions. This course is graded S/U.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 0.5",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 6999",
+        "title": "MS Thesis Research in Computer Science and Engineering",
+        "description": "Description: MS research in Computer Science and Engineering, leading to a thesis.\nRepeatable to a maximum of 10 completions. This course is graded S/U.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 8998",
+        "title": "PhD Research in Computer Science and Engineering",
+        "description": "Description: PhD research in Computer Science and Engineering.\nRepeatable to a maximum of 10 completions. This course is graded S/U.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 0.5",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    },
+    {
+        "number": "CSE 8999",
+        "title": "PhD Dissertation Research in Computer Science and Engineering",
+        "description": "Description: PhD research in Computer Science and Engineering, leading to a dissertation.\nRepeatable to a maximum of 10 completions. This course is graded S/U.",
+        "subject": "Computer Science and Engineering",
+        "units": "Units: 1.0",
+        "prerequisites": "No prerequisites.",
+        "concurrent": "No concurrent requirements."
+    }
+]
