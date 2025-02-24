@@ -11,6 +11,10 @@ This AI-powered academic advisor helps CSE students at Ohio State University wit
 - Transcript analysis
 - Interactive Q&A about the CSE curriculum
 
+## Demo
+
+Check out our Demo Video here: https://youtu.be/wn4N1M6M2eQ
+
 ## Features
 
 ### Intelligent Course Assistance
@@ -39,6 +43,14 @@ This AI-powered academic advisor helps CSE students at Ohio State University wit
 - Technical elective guidance
 - Non-major course requirements
 - Credit hour monitoring
+
+## Technology Stack
+
+- **Frontend**: React.js
+- **Backend**: Python, Flask, ChromaDB
+- **AI/ML**: OpenAI API, scikit-learn, OpenAI text-embedding-ada-002
+- **Data Processing**: Pandas, NumPy
+- **PDF Processing**: PyPDF2
 
 ## Technical Architecture
 
@@ -101,7 +113,7 @@ This AI-powered academic advisor helps CSE students at Ohio State University wit
 
 1. Clone the repository:
 ```
-git clone https://github.com/sidtum/HackAI-AdvisorAI.git
+git clone https://github.com/sidtum/AdvisorAI.git
 ```
 
 
