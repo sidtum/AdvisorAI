@@ -158,5 +158,5 @@ npm start
 
 1. Access the web interface at `http://localhost:3000`
 2. Start a conversation with the AI advisor
-3. Upload your transcript for personalized advice
+3. Upload your transcript for personalized advising advice
 4. Ask questions about courses, requirements, or program planning
